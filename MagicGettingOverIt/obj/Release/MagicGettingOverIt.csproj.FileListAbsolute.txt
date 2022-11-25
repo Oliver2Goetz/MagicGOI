@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\bin\Release\MagicGettingOverIt.exe.config
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\bin\Release\MagicGettingOverIt.exe
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\bin\Release\MagicGettingOverIt.pdb
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.MagicGOI.resources
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.Properties.Resources.resources
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.csproj.GenerateResource.cache
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.exe
+D:\Visual Studio Projects\MagicGettingOverIt\MagicGettingOverIt\obj\Release\MagicGettingOverIt.pdb
